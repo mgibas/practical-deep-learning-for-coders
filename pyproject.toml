@@ -9,5 +9,6 @@ dependencies = [
     "fastai>=2.8.1",
     "fastcore>=1.8.2",
     "fastdownload>=0.0.7",
+    "gradio>=5.29.0",
     "jupyter>=1.1.1",
 ]
